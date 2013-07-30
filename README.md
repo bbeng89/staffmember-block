@@ -1,4 +1,4 @@
-staffmember-block
+Staff Member Block
 =================
 
 Simple concrete5 block for displaying a person's photo, name, and bio
