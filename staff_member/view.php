@@ -1,3 +1,4 @@
+<?php defined('C5_EXECUTE') or die(_("Access Denied.")) ?>
 <div class="row-fluid">
 	<div class="span12">
 		<legend><?php echo $name; ?></legend>
